@@ -249,4 +249,4 @@
       : jq_throttle( delay, callback, at_begin !== false );
   };
   
-})(Funtion('return this')());
+})(window);
